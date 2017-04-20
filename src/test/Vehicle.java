@@ -1,0 +1,21 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package test;
+
+/**
+ *
+ * @author RoshaNz
+ */
+public interface Vehicle {
+
+    public void accelerator();
+    public void brake();
+    int currentSpeed=0;
+    int maxSpeed=0;
+    public int getMaxSpeed();
+    public int setMaxSpeed(int maxSpeed);
+
+}
