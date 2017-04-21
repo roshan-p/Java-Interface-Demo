@@ -13,8 +13,8 @@ public interface Vehicle {
 
     public void accelerator();
     public void brake();
-    int currentSpeed=0;
-    int maxSpeed=0;
+    //int currentSpeed=0;
+    //int maxSpeed=0;
     public int getMaxSpeed();
     public int setMaxSpeed(int maxSpeed);
 
