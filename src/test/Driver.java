@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author RoshaNz
  */
-public class Test {
+public class Driver {
 
     /**
      * @param args the command line arguments
